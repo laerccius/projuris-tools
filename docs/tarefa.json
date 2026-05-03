@@ -1,0 +1,287 @@
+{
+  "codigoTarefa" : 12345,
+  "possuiRecorrencia" : true,
+  "compromisso" : true,
+  "codigoExterno" : "...",
+  "codigoExternoAdicional" : "...",
+  "recorrenciaWs" : {
+    "codigoRecorrencia" : 12345,
+    "dataFim" : 12345,
+    "tipoRecorrencia" : "ANUAL",
+    "numeroRecorrencia" : 12345,
+    "tipoTerminoRecorrencia" : "DATA",
+    "prorrogarFinalDeSemana" : true
+  },
+  "tarefaEventoWs" : {
+    "codigoTarefaEvento" : 12345,
+    "codigoUsuarioCriador" : 12345,
+    "descricaoTarefa" : "...",
+    "identificador" : "...",
+    "dataConclusao" : 12345,
+    "dataConclusaoPrevista" : 12345,
+    "horaConclusao" : 12345,
+    "horaLimite" : 12345,
+    "dataLimite" : 12345,
+    "dataBase" : 12345,
+    "usuariosResponsaveis" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "gruposResponsaveis" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "codigoTarefa" : 12345,
+    "tipoTarefa" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "notificaClienteCriacao" : true,
+    "notificaResponsavelCriacao" : true,
+    "notificaTerceirosCriacao" : true,
+    "notificaClienteConclusao" : true,
+    "notificaResponsavelConclusao" : true,
+    "notificaTerceirosConclusao" : true,
+    "codigoTarefaEventoPai" : 12345,
+    "terceirosConclusao" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "terceirosCriacao" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "marcadorWs" : [ {
+      "codigoMarcador" : 12345,
+      "nomeMarcador" : "..."
+    }, {
+      "codigoMarcador" : 12345,
+      "nomeMarcador" : "..."
+    } ],
+    "tarefaEventoDadosComplementaresWs" : {
+      "codigoTarefaEventoDadosComplementares" : 12345,
+      "textoComplementar" : "..."
+    },
+    "tarefaEventoSituacaoWs" : {
+      "codigoTarefaEventoSituacao" : 12345,
+      "situacao" : "...",
+      "situacaoConcluida" : true
+    },
+    "checklistWs" : {
+      "codigo" : 12345,
+      "nome" : "...",
+      "descricao" : "...",
+      "checklistItemWs" : [ { }, { } ],
+      "numeroItens" : 12345,
+      "numeroItensConcluidos" : 12345,
+      "modulos" : [ { }, { } ]
+    },
+    "tipoEvento" : "TAREFA",
+    "local" : "...",
+    "titulo" : "...",
+    "lembreteWs" : [ {
+      "codigoLembrete" : 12345,
+      "quantidade" : 12345,
+      "unidadeMedida" : "MES",
+      "tipoLembrete" : "EMAIL",
+      "pessoa" : { }
+    }, {
+      "codigoLembrete" : 12345,
+      "quantidade" : 12345,
+      "unidadeMedida" : "DIA",
+      "tipoLembrete" : "NOTIFICACAO",
+      "pessoa" : { }
+    } ],
+    "lembreteDataEspecificaWs" : [ {
+      "codigoLembrete" : 12345,
+      "tipoLembrete" : "NOTIFICACAO",
+      "dataLembrete" : 12345
+    }, {
+      "codigoLembrete" : 12345,
+      "tipoLembrete" : "EMAIL",
+      "dataLembrete" : 12345
+    } ],
+    "privado" : true,
+    "tarefaPrivada" : true,
+    "codigoSimulacaoCalculoPrazo" : 12345,
+    "kanban" : true,
+    "quadroKanban" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "colunaKanban" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "modulos" : [ {
+      "modulo" : "processo-area",
+      "codigoRegistroVinculo" : 12345,
+      "identificadorRegistroVinculo" : "...",
+      "vinculoPrincipal" : true
+    }, {
+      "modulo" : "processo-captura",
+      "codigoRegistroVinculo" : 12345,
+      "identificadorRegistroVinculo" : "...",
+      "vinculoPrincipal" : true
+    } ]
+  },
+  "tarefaCompromissoEventoWs" : {
+    "concluido" : true,
+    "dataHoraInicio" : 12345,
+    "dataHoraFim" : 12345,
+    "convidados" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "codigoTarefaEvento" : 12345,
+    "codigoUsuarioCriador" : 12345,
+    "descricaoTarefa" : "...",
+    "identificador" : "...",
+    "dataConclusao" : 12345,
+    "dataConclusaoPrevista" : 12345,
+    "horaConclusao" : 12345,
+    "horaLimite" : 12345,
+    "dataLimite" : 12345,
+    "dataBase" : 12345,
+    "usuariosResponsaveis" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "gruposResponsaveis" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "codigoTarefa" : 12345,
+    "tipoTarefa" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "notificaClienteCriacao" : true,
+    "notificaResponsavelCriacao" : true,
+    "notificaTerceirosCriacao" : true,
+    "notificaClienteConclusao" : true,
+    "notificaResponsavelConclusao" : true,
+    "notificaTerceirosConclusao" : true,
+    "codigoTarefaEventoPai" : 12345,
+    "terceirosConclusao" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "terceirosCriacao" : [ {
+      "chave" : 12345,
+      "valor" : "..."
+    }, {
+      "chave" : 12345,
+      "valor" : "..."
+    } ],
+    "marcadorWs" : [ {
+      "codigoMarcador" : 12345,
+      "nomeMarcador" : "..."
+    }, {
+      "codigoMarcador" : 12345,
+      "nomeMarcador" : "..."
+    } ],
+    "tarefaEventoDadosComplementaresWs" : {
+      "codigoTarefaEventoDadosComplementares" : 12345,
+      "textoComplementar" : "..."
+    },
+    "tarefaEventoSituacaoWs" : {
+      "codigoTarefaEventoSituacao" : 12345,
+      "situacao" : "...",
+      "situacaoConcluida" : true
+    },
+    "checklistWs" : {
+      "codigo" : 12345,
+      "nome" : "...",
+      "descricao" : "...",
+      "checklistItemWs" : [ { }, { } ],
+      "numeroItens" : 12345,
+      "numeroItensConcluidos" : 12345,
+      "modulos" : [ { }, { } ]
+    },
+    "tipoEvento" : "TAREFA",
+    "local" : "...",
+    "titulo" : "...",
+    "lembreteWs" : [ {
+      "codigoLembrete" : 12345,
+      "quantidade" : 12345,
+      "unidadeMedida" : "SEMANA",
+      "tipoLembrete" : "EMAIL",
+      "pessoa" : { }
+    }, {
+      "codigoLembrete" : 12345,
+      "quantidade" : 12345,
+      "unidadeMedida" : "DIA",
+      "tipoLembrete" : "NOTIFICACAO",
+      "pessoa" : { }
+    } ],
+    "lembreteDataEspecificaWs" : [ {
+      "codigoLembrete" : 12345,
+      "tipoLembrete" : "EMAIL",
+      "dataLembrete" : 12345
+    }, {
+      "codigoLembrete" : 12345,
+      "tipoLembrete" : "NOTIFICACAO",
+      "dataLembrete" : 12345
+    } ],
+    "privado" : true,
+    "tarefaPrivada" : true,
+    "codigoSimulacaoCalculoPrazo" : 12345,
+    "kanban" : true,
+    "quadroKanban" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "colunaKanban" : {
+      "chave" : 12345,
+      "valor" : "..."
+    },
+    "modulos" : [ {
+      "modulo" : "unidade-organizacional",
+      "codigoRegistroVinculo" : 12345,
+      "identificadorRegistroVinculo" : "...",
+      "vinculoPrincipal" : true
+    }, {
+      "modulo" : "arrendatario",
+      "codigoRegistroVinculo" : 12345,
+      "identificadorRegistroVinculo" : "...",
+      "vinculoPrincipal" : true
+    } ]
+  },
+  "modulos" : [ {
+    "modulo" : "pessoa-tipo-documento-identificacao",
+    "codigoRegistroVinculo" : 12345,
+    "identificadorRegistroVinculo" : "...",
+    "vinculoPrincipal" : true
+  }, {
+    "modulo" : "checklist-item",
+    "codigoRegistroVinculo" : 12345,
+    "identificadorRegistroVinculo" : "...",
+    "vinculoPrincipal" : true
+  } ]
+}
+           

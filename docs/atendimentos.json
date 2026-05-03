@@ -1,0 +1,10 @@
+{
+	"codigoCadastroTipo": null,
+	"descricao": "Nome do Assunto",
+	"flagPossuiModulo": true,
+	"flagPossuiArrendatario": true,
+	"modulos": [{
+		"chave": 1,
+		"valor": null
+	}]
+}

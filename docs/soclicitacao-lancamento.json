@@ -1,0 +1,63 @@
+{
+  "codigoSolicitacaoRecebimentoPagto" : 12345,
+  "codigoLancamentoFinanceiro" : 12345,
+  "identificador" : "...",
+  "tipoSolicitacaoRecebimentoPagto" : "RECEITA",
+  "dataSolicitacao" : 12345,
+  "dataVencimento" : 12345,
+  "dataPagamento" : 12345,
+  "valorSolicitacao" : 12345.0,
+  "valorSolicitacaoModulo" : 12345.0,
+  "pessoa" : {
+    "chave" : 12345,
+    "valor" : "..."
+  },
+  "formaPagamento" : "CARTAO_DEBITO",
+  "numeroParcelas" : 12345,
+  "tipoRecorrencia" : "DIARIO",
+  "flagNotificarResp" : true,
+  "situacaoSolicitacao" : "ABERTO",
+  "dataUltimoPagto" : 12345,
+  "valorPago" : 12345.0,
+  "valorPendente" : 12345.0,
+  "justificativa" : "...",
+  "valorEntrada" : 12345.0,
+  "formaPagamentoEntrada" : "CARTAO_DEBITO",
+  "valorSaldo" : 12345.0,
+  "dataPrimeiroVencto" : 12345,
+  "condicaoPagamento" : {
+    "chave" : 12345,
+    "valor" : "..."
+  },
+  "receitaDespesa" : {
+    "chave" : 12345,
+    "valor" : "..."
+  },
+  "boletoSituacao" : "ERRO",
+  "tipoResponsavelPagamento" : "ESCRITORIO",
+  "favorecido" : "...",
+  "cliente" : "...",
+  "numeroDocumento" : "...",
+  "unidadeOrganizacional" : "...",
+  "planoContas" : "...",
+  "descricao" : "...",
+  "responsaveis" : [ {
+    "codigoUsuario" : 12345,
+    "codigoPessoa" : 12345,
+    "nomeCompleto" : "...",
+    "urlFoto" : "..."
+  }, {
+    "codigoUsuario" : 12345,
+    "codigoPessoa" : 12345,
+    "nomeCompleto" : "...",
+    "urlFoto" : "..."
+  } ],
+  "marcadorWs" : [ {
+    "codigoMarcador" : 12345,
+    "nomeMarcador" : "..."
+  }, {
+    "codigoMarcador" : 12345,
+    "nomeMarcador" : "..."
+  } ]
+}
+     
